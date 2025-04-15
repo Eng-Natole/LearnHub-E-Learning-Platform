@@ -1,7 +1,7 @@
 
 <img  height="70" src='https://learnhub-opju.netlify.app/images/logo2.svg' />
 
-# Project Description 📝
+# Description 📝
 LearnHub is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
